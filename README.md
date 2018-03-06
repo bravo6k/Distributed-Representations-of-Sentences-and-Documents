@@ -1,3 +1,6 @@
+# Declaration 
+#### Written by Kevin Dong(https://github.com/Barcavin), Kai Lu
+
 # File definition:
 
 #### Config.py Configuration file that store the hyper parameters. Shared through several scripts.
